@@ -1,8 +1,1 @@
-abcd
-efgh
-ijkl
-mmmm
-kkkk
-oooo
-pppp
-1111
+abab
